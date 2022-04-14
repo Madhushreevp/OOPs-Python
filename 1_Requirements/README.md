@@ -18,7 +18,7 @@ https://www.scientificamerican.com/article/crack-the-code-make-a-caesar-cipher/
 | ID | Description | Input | Category | 
 | --- | --- | --- | --- | 
 | 01 | Number to be encoded | Integer | Logical | 
-| 02 | Binary String to be generated | Integer   | Logical | 
+| 02 | Binary Array to be generated | Integer   | Logical | 
 | 03 | Limit for the series to be set |Integer  | Mathematical | 
 | 04 | Number Series to be generated | Integer | Mathematical | 
 | 05 | Index to be appended at end of code  | Integer | Technical |  
