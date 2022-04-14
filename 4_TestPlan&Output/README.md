@@ -17,10 +17,38 @@
 
 
 
-
-
-
 ## Outputs
 
+## PyLint Score
+<p align="center">
+  <img 
+    width="600"
+    height="150"
+src="https://github.com/Madhushreevp/OOPs-Python/blob/cae2b686aac6d84d5956f1676f6440b387dde919/4_TestPlan&Output/PyLint%20Score.PNG"
+       >
+</p>
 
+## Different Output 
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+src="https://github.com/Madhushreevp/OOPs-Python/blob/cae2b686aac6d84d5956f1676f6440b387dde919/4_TestPlan&Output/output1.PNG"      
+       >
+</p>
 
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+src="https://github.com/Madhushreevp/OOPs-Python/blob/cae2b686aac6d84d5956f1676f6440b387dde919/4_TestPlan&Output/output2.PNG"      
+       >
+</p>
+
+<p align="center">
+  <img 
+    width="600"
+    height="300"
+src="https://github.com/Madhushreevp/OOPs-Python/blob/cae2b686aac6d84d5956f1676f6440b387dde919/4_TestPlan&Output/output3.PNG"      
+       >
+</p>
