@@ -21,10 +21,5 @@ https://www.scientificamerican.com/article/crack-the-code-make-a-caesar-cipher/
 | 02 | Binary String to be generated | Integer   | Logical | 
 | 03 | Limit for the series to be set |Integer  | Mathematical | 
 | 04 | Number Series to be generated | Integer | Mathematical | 
-| 05 |  | Integer | Number compared with Index  |  Number appended with Index  |    ✅ |  
-| 06 | Binary String | Integer | Number  series estimated   | Number  series calculated    |    ✅ |  
-| 07 |Binary String | Integer | Number generates usage bits  | Binary string stores encoded number    |    ✅ |  
-| 08 | Index | Integer | Index used for secret word    | Index used for traversing    |    ✅ |  
-| 09 | Length | Integer | Length of secret word      | Length calculated using Index             |    ✅ |  
-| 10 | End of secret word  | Integer | Number appended in the end  | Digit 1 appended in the last   |    ✅ |  
+| 05 | Index to be appended at end of code  | Integer | Technical |  
 
