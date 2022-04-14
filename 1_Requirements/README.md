@@ -6,4 +6,12 @@ https://www.scientificamerican.com/article/crack-the-code-make-a-caesar-cipher/
 
 ## Swot Analysis: -
 
+<p align="center">
+  <img 
+    width="600"
+    height="600"
+    src="https://github.com/Madhushreevp/M2_EmbSys/blob/9c6de42aa3830aa6f6d4902857755a6b749d700a/1_Embedded%20Project/2_Architecture/flwcht1.PNG"
+  >
+</p>
+
 
