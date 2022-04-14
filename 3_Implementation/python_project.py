@@ -29,7 +29,7 @@ except ValueError:
     pass
 finally:
     print("Limit is", num_limit)
-    encode_num = int(input("Enter a number to be encoded using Fibonacci algorithm\n"))
+    encode_num = int(input("Enter a number to be encoded using Number series algorithm\n"))
     store_num = [0 for i in range(num_limit)]
 
     def checkseries(_self, encode_num):
@@ -42,9 +42,9 @@ finally:
             type: description
         """
         store_num[0] = 1
-        # Fib[0] stores 2nd Fibonacci Number
+        # stores 2nd Number
         store_num[1] = 2
-        # Fib[1] stores 3rd Fibonacci Number
+        #  stores 3rd  Number
         i = 2
         while store_num[i - 1] <= encode_num:
             store_num[i] = store_num[i - 1] + store_num[i - 2]
